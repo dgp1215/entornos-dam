@@ -13,7 +13,8 @@ public class Ejercicio01 {
 		//Implementamos diferentes lógicas para comprobar si es vocal
 		boolean es_vocal = false;
 		
-		System.out.println("Estamod en método esVocal");
+		System.out.println("Estamos en método esVocal");
+		if(true) es_vocal = true;
 		
 		return es_vocal;
 	}
